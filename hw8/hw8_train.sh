@@ -1,0 +1,1 @@
+python hw8_train.py $1

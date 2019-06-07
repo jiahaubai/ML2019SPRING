@@ -1,0 +1,1 @@
+wget -O test_quan.pth https://www.dropbox.com/s/f28wok69bunt9nj/0604_test_quan.pth?dl=1
